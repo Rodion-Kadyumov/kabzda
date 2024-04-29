@@ -5,7 +5,6 @@ type StarPropsType = {
   setValue: () => void
 }
 
-
 export function UncontrolledRaiting () {
 
   let [value, setValue] = useState(0)
